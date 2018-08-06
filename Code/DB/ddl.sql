@@ -1,5 +1,5 @@
 --Table: product1.NB_USERS
-
+-- dheemanth
 --DROP TABLE "product1"."NB_USERS";
 
 CREATE TABLE "product1"."NB_USERS" (
